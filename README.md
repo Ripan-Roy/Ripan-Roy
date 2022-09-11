@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripan-roy" alt="ripan-roy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/IDxItachi?t=pjiPCDcqOHjPzsWEL-mNQg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@idxitachi?logo=twitter&style=for-the-badge" alt="@idxitachi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IDxItachi?t=pjiPCDcqOHjPzsWEL-mNQg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/IDxItachi?logo=twitter&style=for-the-badge" alt="Ripan Roy" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
