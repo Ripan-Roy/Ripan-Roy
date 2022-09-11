@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripan-roy" alt="ripan-roy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@idxitachi" target="blank"><img src="https://img.shields.io/twitter/follow/@idxitachi?logo=twitter&style=for-the-badge" alt="@idxitachi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IDxItachi?t=pjiPCDcqOHjPzsWEL-mNQg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@idxitachi?logo=twitter&style=for-the-badge" alt="@idxitachi" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/idxitachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@idxitachi" height="30" width="40" /></a>
+<a href="https://twitter.com/IDxItachi?t=pjiPCDcqOHjPzsWEL-mNQg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@idxitachi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ripan-roy-6aa744200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripan-roy-6aa744200" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_ripan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_ripan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ripan_ext" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ripan_ext" height="30" width="40" /></a>
