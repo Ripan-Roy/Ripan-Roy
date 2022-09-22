@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [will-be-updated](will-be-updated)
 
-<!-- 📝 I regularly write articles on [here](will-be-updated) -->  
+<!-- 📝 I regularly write articles on [My Portfolio](#) -->  
 
 - 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Machine Learning**
 
