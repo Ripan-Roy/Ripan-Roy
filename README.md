@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [will-be-updated](will-be-updated)
+- 👨‍💻 All of my projects are available at [My Portfolio](#)
 
-<!-- 📝 I regularly write articles on [My Portfolio](#) -->  
+<!-- 📝 I regularly write articles on  -->  
 
 - 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Machine Learning**
 
