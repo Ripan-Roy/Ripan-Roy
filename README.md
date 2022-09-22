@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](#)
+- 👨‍💻 All of my projects are available at [My Portfolio(Not updated yet)](https://ripan.netlify.app/)
 
 <!-- 📝 I regularly write articles on  -->  
 
