@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ripanroy111@gmail.com**
 
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1cfovKthwL2rMtzsaMPJr7DiJOq_r9qwG/view?usp=sharing)
-
 
 
 <!-- Socials -->
