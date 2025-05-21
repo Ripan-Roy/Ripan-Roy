@@ -1,53 +1,80 @@
-<h1 align="center">Hi 👋, This is Ripan</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h1 align="center">Hey there, I'm Ripan 👋</h1>
+<h3 align="center">🚀 Full-Stack Engineer | 💡 AI Innovator | 🇮🇳 Builder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ripan-roy&label=Profile%20views&color=0e75b6&style=flat" alt="ripan-roy" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Ripan-Roy/github-profile-trophy)
-
-<!-- <p align="left"> <a href="https://twitter.com/IDxItachi?t=pjiPCDcqOHjPzsWEL-mNQg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/IDxItachi?logo=twitter&style=for-the-badge" alt="Ripan Roy" /></a> </p> -->
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
-
-- 👨‍💻 All of my projects are available at [Link](https://ripan.dev)
-
-- 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Machine Learning**
-
-- 📫 How to reach me **ripanroy111@gmail.com**
-
-
-
-<!-- Socials -->
-<h3>Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@idxitachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@idxitachi" height="30" width="40" />Twitter &nbsp</a>
-<a href="https://linkedin.com/in/ripan-roy-6aa744200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ripan-roy-6aa744200" height="30" width="40" />LinkedIn &nbsp</a>
-<a href="https://instagram.com/i_am_ripan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_ripan" height="30" width="40" />Instagram &nbsp</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ripan-roy&label=Profile+Views&color=0e75b6&style=flat" alt="ripan-roy" />
 </p>
 
-<!-- Coding Profiles -->  
-<h3 align="left">Coding Profiles</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/ripan_ext" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ripan_ext" height="30" width="40" /><span>Codechef</span>&nbsp</a>   
-<a href="https://codeforces.com/profile/ripan-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ripan-roy" height="30" width="40" />Codeforces &nbsp</a>
-<a href="https://www.leetcode.com/ripan_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ripan_roy" height="30" width="40" />Leetcode &nbsp</a> 
-<a href="https://auth.geeksforgeeks.org/user/ripanroy111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ripanroy111" height="30" width="40" /> GeeksForGeeks &nbsp</a>
+<p align="center">
+  <a href="https://ripan.dev" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/ripan-roy-6aa744200/" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:ripanroy111@gmail.com">📧 Email</a> • 
+  <a href="https://x.com/idxitachi" target="_blank">🐦 X</a>
 </p>
 
-<!-- Languages -->
+---
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> C++</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><span >Python</span></a>
+### 🧠 About Me
+I'm a Software Engineer at **Qtanea Solutions**, ex-A21AI intern, and currently building [**PrepprAI**](https://prepprai.com) — an AI-powered mock interview platform using LLMs to deliver adaptive, real-time interview experiences and feedback.
+
+I specialize in building production-grade, AI-driven systems in **healthtech**, **career-tech**, and **research infrastructure**, merging large-scale backend systems with generative AI to solve real-world problems.
+
+- 💬 Ask me about: **LLMs, Django, Vector Search, Competitive Programming**
+- 🧠 Currently focused on: **RAG pipelines, semantic search, AI feedback systems, and realtime apps**
+- 🛠️ I love clean architecture, open APIs, and performance-obsessed systems
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+
+**Frameworks & Tools:**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+
+**AI & ML:**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-333?style=flat&logo=openai) ![Transformers](https://img.shields.io/badge/-Huggingface-FFD21F?style=flat&logo=hugging-face) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch) ![Segment Anything](https://img.shields.io/badge/-SAM-333?style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ripan-roy&show_icons=true&theme=radical" alt="ripan-roy" />
 </p>
-<h3 align="left">Tools & Frameworks:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripan-roy&theme=radical" alt="ripan-roy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ripan-roy&layout=compact&theme=radical" alt="ripan-roy" />
+</p>
+
+---
+
+### 🧗‍♂️ Competitive Programming & Hackathons
+
+- 🏅 **LeetCode Knight**
+- 🎖️ **ICPC Regionalist**
+- 🏆 Finalist/Winner at:
+  - **Smart India Hackathon**
+  - **Kavach Cybersecurity Hackathon**
+  - **Rakathon by Rakuten**
+  - **Intel oneAPI Enigma Hackathon**
+
 <p>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>CSS</a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>Django</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>Git</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>HTML</a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>Linux</a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>MySQL</a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> OpenCV</a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>React</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>Tensorflow</a> 
+  <a href="https://www.codechef.com/users/ripan_ext" target="_blank">CodeChef</a> •
+  <a href="https://codeforces.com/profile/ripan-roy" target="_blank">Codeforces</a> •
+  <a href="https://leetcode.com/ripan_roy" target="_blank">LeetCode</a> •
+  <a href="https://auth.geeksforgeeks.org/user/ripanroy111" target="_blank">GeeksforGeeks</a>
 </p>
 
-<!-- Github Stats -->
-<h3>Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripan-roy&show_icons=true&theme=merko&locale=en&layout=compact" alt="ripan-roy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripan-roy&show_icons=true&locale=en" alt="ripan-roy" /></p>
+### 📢 Let's Connect
+If you're working on something exciting in **AI**, **developer tools**, or **healthcare tech**, or just want to bounce ideas — reach out. Always open to collaborate, build, or brainstorm.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripan-roy&" alt="ripan-roy" /></p>
+---
+
+<p align="center"><i>“Stay hungry. Stay foolish.” – Steve Jobs</i></p>
