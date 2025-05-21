@@ -64,16 +64,16 @@ I specialize in building production-grade, AI-driven systems in **healthtech**, 
   - **Intel oneAPI Enigma Hackathon**
 
 <p>
-  <a href="https://www.codechef.com/users/ripan_ext" target="_blank">CodeChef</a> •
-  <a href="https://codeforces.com/profile/ripan-roy" target="_blank">Codeforces</a> •
-  <a href="https://leetcode.com/ripan_roy" target="_blank">LeetCode</a> •
-  <a href="https://auth.geeksforgeeks.org/user/ripanroy111" target="_blank">GeeksforGeeks</a>
+  <a href="https://leetcode.com/u/ripan_roy" target="_blank">LeetCode</a> •
+  <a href="https://codeforces.com/profile/Ripan-Roy" target="_blank">Codeforces</a> •
 </p>
 
 ---
 
 ### 📢 Let's Connect
 If you're working on something exciting in **AI**, **developer tools**, or **healthcare tech**, or just want to bounce ideas — reach out. Always open to collaborate, build, or brainstorm.
+
+
 
 ---
 
