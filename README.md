@@ -64,8 +64,8 @@ I specialize in building production-grade, AI-driven systems in **healthtech**, 
   - **Intel oneAPI Enigma Hackathon**
 
 <p>
-  <a href="https://leetcode.com/u/ripan_roy" target="_blank">LeetCode</a> •
-  <a href="https://codeforces.com/profile/Ripan-Roy" target="_blank">Codeforces</a> •
+  • <a href="https://leetcode.com/u/ripan_roy" target="_blank">LeetCode</a> 
+  • <a href="https://codeforces.com/profile/Ripan-Roy" target="_blank">Codeforces</a> 
 </p>
 
 ---
