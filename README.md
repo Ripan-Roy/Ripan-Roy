@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ripan.dev" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://ripanroy.com" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/ripan-roy-6aa744200/" target="_blank">💼 LinkedIn</a> • 
   <a href="mailto:ripanroy111@gmail.com">📧 Email</a> • 
   <a href="https://x.com/idxitachi" target="_blank">🐦 X</a>
